@@ -1,0 +1,13 @@
+# API secrets
+ccbot/.streamlit/secrets.toml
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
